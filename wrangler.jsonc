@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "summer-mountain-94e2",
+	"name": "gaurav-pg-bot",
 	"main": "src/index.js",
 	"compatibility_date": "2026-06-15",
 	"observability": {
